@@ -1,29 +1,29 @@
 {
-    "name": "play-web-action",
-    "version": "0.0.1",
-    "description": "play web action",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/LoveKino/play-web-action.git"
-    },
-    "keywords": [
-        "play",
-        "web",
-        "action",
-        "event"
-    ],
-    "author": "ddchen",
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/LoveKino/play-web-action/issues"
-    },
-    "homepage": "https://github.com/LoveKino/play-web-action#readme",
-    "link_dependencies": {
-        "bolzano": "~0.0.1",
-        "find-dom-node": "~0.0.1"
-    }
+  "name": "play-web-action",
+  "version": "0.0.1",
+  "description": "play web action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoveKino/play-web-action.git"
+  },
+  "keywords": [
+    "play",
+    "web",
+    "action",
+    "event"
+  ],
+  "author": "ddchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LoveKino/play-web-action/issues"
+  },
+  "homepage": "https://github.com/LoveKino/play-web-action#readme",
+  "dependencies": {
+    "bolzano": "0.0.1",
+    "find-dom-node": "0.0.1"
+  }
 }
