@@ -9,6 +9,7 @@ let {
 } = require('bolzano');
 
 /**
+ * play web action
  *
  * action interface
  *
